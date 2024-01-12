@@ -1,0 +1,3 @@
+# INDE 577 - Data Science & MAchine Learning
+
+Data Science and Machine Learning is a course at Rice...
